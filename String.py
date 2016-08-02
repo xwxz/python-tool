@@ -1,6 +1,6 @@
 """
-Copyright © 时趣互动（北京）科技有限公司
-@contact: wujianqiang@social-touch.com
+Copyright © 小吴学长
+@contact: wjq0401@hotmail.com
 @file: String.py
 @time: 16/6/15 下午12:58
 @desc: 
